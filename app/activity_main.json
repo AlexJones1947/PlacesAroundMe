@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269032995745",
+    "firebase_url": "https://placesaroundme-5e0cd.firebaseio.com",
+    "project_id": "placesaroundme-5e0cd",
+    "storage_bucket": "placesaroundme-5e0cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269032995745:android:3e0e979486f877a3",
+        "android_client_info": {
+          "package_name": "com.rishit.infinium.placesaroundme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269032995745-t2p2gm5ufd1hs0i830p8784evs73765c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishit.infinium.placesaroundme",
+            "certificate_hash": "a52d4bd6a7fb0b7054e6785a1df18f81af4bb187"
+          }
+        },
+        {
+          "client_id": "269032995745-niuettvv4rn90nfpa2eu9l4ul7u87943.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIosivqbTnOONLkhoTPsA0FZ7ka5qyYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269032995745-niuettvv4rn90nfpa2eu9l4ul7u87943.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
